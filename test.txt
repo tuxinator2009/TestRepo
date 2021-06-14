@@ -1,2 +1,3 @@
 This is to test doing a git pull using libgit2
 Test line 2
+Test line 3
